@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9ad54556-034a-4e20-9066-23b76c38533a" name="Changes" comment="Make Word CRUD, Manager!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/WordCRUD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/WordManager.java" afterDir="false" />
     </list>
@@ -56,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662362246302</updated>
       <workItem from="1662362247992" duration="3511000" />
-      <workItem from="1662427257900" duration="1132000" />
+      <workItem from="1662427257900" duration="1837000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1662362792155</created>
@@ -100,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662363495453</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Make Word CRUD, Manager!">
+      <created>1662428480462</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662428480462</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
