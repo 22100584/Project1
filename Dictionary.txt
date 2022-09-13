@@ -1,4 +1,5 @@
-2| apple|사과
+2| apple|사과맛있어
 2| kiwi|키위
 3| superintendent|관리자
 1| graduate|졸업하다
+2| good|좋은

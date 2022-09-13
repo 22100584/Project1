@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ad54556-034a-4e20-9066-23b76c38533a" name="Changes" comment="Make Word CRUD, Manager / Delete fuction!">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="9ad54556-034a-4e20-9066-23b76c38533a" name="Changes" comment="Make File upload,save &amp; 수준별 단어&amp;단어 검색 function 추가!!!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Word.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/WordCRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/WordManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image.png" beforeDir="false" afterPath="$PROJECT_DIR$/capture/image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1-1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/capture/project1-1.PNG" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,14 +35,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "File.Encoding"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Project1" />
@@ -63,7 +62,8 @@
       <option name="presentableId" value="Default" />
       <updated>1662362246302</updated>
       <workItem from="1662362247992" duration="3511000" />
-      <workItem from="1662427257900" duration="5820000" />
+      <workItem from="1662427257900" duration="6126000" />
+      <workItem from="1663030425224" duration="1532000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1662362792155</created>
@@ -121,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662429187361</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Make File upload,save &amp; 수준별 단어&amp;단어 검색 function 추가!!!">
+      <created>1662433375590</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1662433375590</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +151,8 @@
     <MESSAGE value="Make Interface CRUD" />
     <MESSAGE value="Make Word CRUD, Manager!" />
     <MESSAGE value="Make Word CRUD, Manager / Delete fuction!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Make Word CRUD, Manager / Delete fuction!" />
+    <MESSAGE value="Make File upload,save &amp; 수준별 단어&amp;단어 검색 function 추가!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make File upload,save &amp; 수준별 단어&amp;단어 검색 function 추가!!!" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
