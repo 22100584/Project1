@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ad54556-034a-4e20-9066-23b76c38533a" name="Changes" comment="Make File upload,save &amp; 수준별 단어&amp;단어 검색 function 추가!!!">
+    <list default="true" id="9ad54556-034a-4e20-9066-23b76c38533a" name="Changes" comment="파일 정리">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dictionary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image.png" beforeDir="false" afterPath="$PROJECT_DIR$/capture/image.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project1-1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/capture/project1-1.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +44,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Project1\capture" />
       <recent name="C:\Project1" />
       <recent name="C:\Project1\src\main\java\org\example" />
       <recent name="C:\Project1\src" />
@@ -63,7 +63,7 @@
       <updated>1662362246302</updated>
       <workItem from="1662362247992" duration="3511000" />
       <workItem from="1662427257900" duration="6126000" />
-      <workItem from="1663030425224" duration="1532000" />
+      <workItem from="1663030425224" duration="3874000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1662362792155</created>
@@ -128,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662433375590</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="파일 정리">
+      <created>1663034521690</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1663034521690</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,7 +159,8 @@
     <MESSAGE value="Make Word CRUD, Manager!" />
     <MESSAGE value="Make Word CRUD, Manager / Delete fuction!" />
     <MESSAGE value="Make File upload,save &amp; 수준별 단어&amp;단어 검색 function 추가!!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Make File upload,save &amp; 수준별 단어&amp;단어 검색 function 추가!!!" />
+    <MESSAGE value="파일 정리" />
+    <option name="LAST_COMMIT_MESSAGE" value="파일 정리" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
